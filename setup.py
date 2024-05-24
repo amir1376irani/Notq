@@ -19,7 +19,7 @@ setup(
                         'tqdm ==4.61.2',
                         'transformers ==4.11.2',
                         'torch',
-                        'wget ==3.2',
+                        'wget',
                         'persian_fluency_detector',
                         'persian_syllable_counter'],
 
